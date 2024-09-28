@@ -1,3 +1,5 @@
 #+title: shell3d
 #+subtitle: A 3D object viewer for your terminal
 *  Introduction
+We are creating a rendering engine so that you can view 3D models (in ASCII)
+quickly in the terminal
